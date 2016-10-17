@@ -13,12 +13,13 @@ currency sign, and the currency sign itself;
 
 ## Installation
 
-To get the CRAN version:
+To get the release version:
 
 ```r
 install.packages("lucr")
 ```
-To get the development version:
+
+For the development version:
 ```r
 devtools::install_github("ironholds/lucr")
 ```
